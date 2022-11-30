@@ -47,4 +47,8 @@ HORNMOD_AddHorns({name = "sfx_401", info = "Ah! - Denis Brognard"},
 {name = "sfx_447", info = "Ui - Les pubs locales misterjday", extags = "ui"},
 {name = "sfx_448", info = "C'est honteux", extags = "c'est honteux"},
 {name = "sfx_449", info = "Ca fait beaucoup la non - Mister V", extags = "ca fait beaucoup"},
-{name = "sfx_450", info = "Je chiale PUTAIN - Antoine Daniel", extags = "Antoine Daniel"})
+{name = "sfx_450", info = "Je chiale PUTAIN - Antoine Daniel", extags = "Antoine Daniel"},
+{name = "sfx_451", info = "Horn 1 - TrackMania", extags = "tm"},
+{name = "sfx_452", info = "Horn 2 - TrackMania", extags = "tm"},
+{name = "sfx_453", info = "Horn 3 - TrackMania", extags = "tm"},
+{name = "sfx_454", info = "Horn 4 - TrackMania", extags = "tm"})
